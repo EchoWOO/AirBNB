@@ -29,7 +29,7 @@ There are 3 major datasets in each city: listing, calendar and review. This anal
 
 ## Images<a name="Images"></a>
 
-The main graphics that shows the findings of the code can be found in the images folder. A PDF blog post is also available [here](https://github.com/EchoWOO/AirBNB/blob/master/Blogpost.pdf) to explain the results in a non-techincal way.
+The main graphics that shows the findings of the code can be found in the images folder. A blog post is also available [here](https://echowoo.com/blog_airbnb_price.html) to explain the results in a non-techincal way.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
